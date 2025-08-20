@@ -147,6 +147,17 @@ The application is fully responsive and works seamlessly across:
 - Stacked layouts for better readability
 - Responsive images and content
 
+## 📸 Screenshots  
+
+Here are some previews of the project:
+
+![Screenshot 1](assests/DSC1.png)  
+![Screenshot 2](assests/DSC2.png)  
+![Screenshot 3](assests/DSC3.png)  
+![Screenshot 4](assests/DSC4.png)  
+![Screenshot 5](assests/DSC5.png)  
+![Screenshot 6](assests/DSC6.png)  
+
 ## 🛠️ Development
 
 ### Project Structure
@@ -232,7 +243,7 @@ This project is created for the Developer Students Club at SRM IST Ramapuram Cam
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
+ 
 ## 📞 Support
 
 For support and questions:
